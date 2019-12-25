@@ -1,0 +1,220 @@
+{
+  "version": "4.1.3.1",
+  "configs": [
+    {
+      "server": "ghelper-tw.ddns.net",
+      "server_port": 48251,
+      "password": "X495X3U4JTRA26J7",
+      "method": "aes-128-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "付费",
+      "timeout": 5
+    },
+    {
+      "server": "23.239.20.120",
+      "server_port": 8097,
+      "password": "eIW0Dnk69454e6nSwuspv9DmS201tQ0D",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "us",
+      "timeout": 5
+    },
+    {
+      "server": "167.71.201.26",
+      "server_port": 14783,
+      "password": "isx.yt-57384653",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "sg",
+      "timeout": 5
+    },
+    {
+      "server": "68.183.64.50",
+      "server_port": 41275,
+      "password": "gQMb8zmMwH9A",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "大苏打",
+      "timeout": 5
+    },
+    {
+      "server": "18.182.65.249",
+      "server_port": 11404,
+      "password": "rbR0SNpj1kNh",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "阿松大",
+      "timeout": 5
+    },
+    {
+      "server": "92.53.91.18",
+      "server_port": 24946,
+      "password": "97NuIVgXkVG7",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "132",
+      "timeout": 5
+    },
+    {
+      "server": "103.29.71.97",
+      "server_port": 45355,
+      "password": "naw2PG34X9wl",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "165.22.133.55",
+      "server_port": 17282,
+      "password": "ssx.re-01805627",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "54.199.151.23",
+      "server_port": 9515,
+      "password": "LusoBN5wkL3c",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "139.226.186.162",
+      "server_port": 11022,
+      "password": "adTQFU",
+      "method": "aes-256-ctr",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "45.79.32.223",
+      "server_port": 20421,
+      "password": "729dGslW3Xyf",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "119.162.226.11",
+      "server_port": 24309,
+      "password": "rc4-md5",
+      "method": "",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "139.162.246.211",
+      "server_port": 18552,
+      "password": "hswGuUW7vCqG",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "18.179.16.26",
+      "server_port": 36270,
+      "password": "xG64E8OMWtK1",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "13.231.170.111",
+      "server_port": 26119,
+      "password": "E3nbTDcxCHP3",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "172.105.193.88",
+      "server_port": 26954,
+      "password": "57IhGRaJcKxf",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "",
+      "timeout": 5
+    }
+  ],
+  "strategy": null,
+  "index": 15,
+  "global": false,
+  "enabled": true,
+  "shareOverLan": false,
+  "isDefault": false,
+  "localPort": 1080,
+  "portableMode": true,
+  "pacUrl": "https://raw.githubusercontent.com/breakwa11/gfw_whitelist/master/whitelist.pac",
+  "useOnlinePac": false,
+  "secureLocalPac": false,
+  "availabilityStatistics": false,
+  "autoCheckUpdate": true,
+  "checkPreRelease": false,
+  "isVerboseLogging": false,
+  "logViewer": {
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "Font": "Consolas, 8pt",
+    "BackgroundColor": "Black",
+    "TextColor": "White"
+  },
+  "proxy": {
+    "useProxy": false,
+    "proxyType": 0,
+    "proxyServer": "",
+    "proxyPort": 0,
+    "proxyTimeout": 3
+  },
+  "hotkey": {
+    "SwitchSystemProxy": "",
+    "SwitchSystemProxyMode": "",
+    "SwitchAllowLan": "",
+    "ShowLogs": "",
+    "ServerMoveUp": "",
+    "ServerMoveDown": "",
+    "RegHotkeysAtStartup": false
+  }
+}

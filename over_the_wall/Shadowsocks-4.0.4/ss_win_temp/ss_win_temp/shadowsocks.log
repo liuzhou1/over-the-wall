@@ -1,0 +1,3 @@
+[2018-07-28 22:58:28] System.Exception: 端口已被占用
+   at Shadowsocks.Controller.Listener.Start(Configuration config)
+   at Shadowsocks.Controller.ShadowsocksController.Reload()

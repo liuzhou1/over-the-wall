@@ -1,0 +1,375 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "[Version]\nSignature=\"$Windows NT$\"\n\n[DefaultInstall]\nAddReg=SublimeText3\n\n[SublimeText3]\nhkcr,\"*\\\\shell\\\\SublimeText3\",,,\"用 SublimeText3 打开\"\nhkcr,\"*\\\\shell\\\\SublimeText3\\\\command\",,,\"\"\"%1%\\sublime_text.exe\"\" \"\"%%1\"\" %%*\"\nhkcr,\"Directory\\shell\\SublimeText3\",,,\"用 SublimeText3 打开\"\nhkcr,\"*\\\\shell\\\\SublimeText3\",\"Icon\",0x20000,\"%1%\\sublime_text.exe, 0\"\nhkcr,\"Directory\\shell\\SublimeText3\\command\",,,\"\"\"%1%\\sublime_text.exe\"\" \"\"%%1\"\"\"",
+			"file": "/D/360安全浏览器下载/SublimeText3_ha/Sublime Text 3.3126x64/添加右键菜单.inf",
+			"file_size": 447,
+			"file_write_time": 131443035645886676,
+			"settings":
+			{
+				"buffer_size": 430,
+				"line_ending": "Windows",
+				"scratch": true
+			}
+		},
+		{
+			"file": "更新pac.py",
+			"settings":
+			{
+				"buffer_size": 371,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pac.txt",
+			"settings":
+			{
+				"buffer_size": 389845,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 110.0,
+		"last_filter": "Package Control: lis",
+		"selected_items":
+		[
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: lp",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control:remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"Package Controllist pa",
+				"Package Control: List Packages→列出插件"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"in",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"i",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 378.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/LEO2017777/Desktop/Shadowsocks-4.0.4_HX"
+	],
+	"file_history":
+	[
+		"/D/360安全浏览器下载/SublimeText3_ha/Sublime Text 3.3126x64/添加右键菜单.inf",
+		"/C/Users/LEO2017777/Desktop/网络测试脚本/网络测试.py",
+		"/C/Users/LEO2017777/Desktop/Shadowsocks-4.0.4_HX/pac.txt",
+		"/C/Users/LEO2017777/Desktop/AMYXXNA_100.91.8.250/aws_singapore_13.228.0.251.csv",
+		"/C/Users/LEO2017777/Desktop/AMYXXNA_100.91.8.250/aws_tokyo_13.112.63.251.csv",
+		"/C/Users/LEO2017777/Desktop/AMYXXNA_100.91.8.250/谷歌dns_8.8.8.8.csv",
+		"/C/Users/LEO2017777/Desktop/AMYXXNA_100.91.8.250/163_www.163.com.csv",
+		"/C/Users/LEO2017777/Desktop/AMYXXNA_100.91.8.250/ali_us_west_跳板机_47.88.32.26.csv",
+		"/C/Users/LEO2017777/Desktop/AMYXXNA_100.91.8.250/aws_nc_ss_54.193.79.152.csv",
+		"/C/Users/LEO2017777/Desktop/AMYXXNA_100.91.8.250/aws_north_virginia_23.23.255.255.csv",
+		"/C/Users/LEO2017777/Desktop/AMYXXNA_100.91.8.250/aws_ohio_13.58.0.253.csv",
+		"/C/Users/LEO2017777/Desktop/AMYXXNA_100.91.8.250/aws_oregon_34.208.63.251.csv",
+		"/C/Users/LEO2017777/Desktop/AMYXXNA_100.91.8.250/aws_seoul_13.124.63.251.csv",
+		"/C/Users/LEO2017777/Desktop/AMYXXNA_100.91.8.250/baidu_www.baidu.com.csv",
+		"/C/Users/LEO2017777/Desktop/AMYXXNA_100.91.8.250/sina_www.sina.com.csv",
+		"/C/Users/LEO2017777/Desktop/AMYXXNA_100.91.8.250/电信dns_202.102.192.68.csv",
+		"/D/360安全浏览器下载/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/Advanced CSV/AdvancedCSV.sublime-settings",
+		"/C/Users/LEO2017777/Desktop/Shadowsocks-4.0.4_HX/hx_ftp.py",
+		"/C/Users/LEO2017777/Desktop/Shadowsocks-4.0.4_HX/transfer_file.py",
+		"/C/Users/LEO2017777/Desktop/Shadowsocks-4.0.4_HX/remote_file_info.py",
+		"/C/Users/LEO2017777/Desktop/Shadowsocks-4.0.4_HX/split_path.py",
+		"/D/360安全浏览器下载/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/LEO2017777/Desktop/Shadowsocks-4.0.4_HX/local_file_info.py",
+		"/D/360安全浏览器下载/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/360安全浏览器下载/SublimeText3_ha/Sublime Text 3.3126x64/添加右键菜单.inf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								430,
+								430
+							]
+						],
+						"settings":
+						{
+							"in_converting": true,
+							"origin_encoding": "GB2312",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "更新pac.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 371,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pac.txt",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 389845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1689,
+								1689
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1350.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "st.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\LEO2017777\\Desktop\\Shadowsocks-4.0.4_HX\\st.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
