@@ -1,0 +1,4 @@
+[23-12 01:03:41]	Service started
+[23-12 01:06:10]	SERVICE_CONTROL_SHUTDOWN message received
+[23-12 01:06:10]	Service stopped
+[23-12 01:06:10]	Ipv6Firewall::enableIPv6(), failed delete filters

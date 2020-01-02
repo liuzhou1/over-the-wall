@@ -1,0 +1,447 @@
+﻿2019-10-15 17:34:52.762   Log opened. (Time zone: UTC+08:00)
+2019-10-15 17:34:52.762   Setup version: Inno Setup version 5.6.1 (u)
+2019-10-15 17:34:52.762   Original Setup EXE: C:\Users\liu\Desktop\Windscribe.exe
+2019-10-15 17:34:52.762   Setup command line: /SL5="$1508BE,16366613,486912,C:\Users\liu\Desktop\Windscribe.exe" /SPAWNWND=$4094C /NOTIFYWND=$80994 
+2019-10-15 17:34:52.762   Windows version: 10.0.17763  (NT platform: Yes)
+2019-10-15 17:34:52.762   64-bit Windows: Yes
+2019-10-15 17:34:52.762   Processor architecture: x64
+2019-10-15 17:34:52.762   User privileges: Administrative
+2019-10-15 17:34:52.764   64-bit install mode: No
+2019-10-15 17:34:52.768   Created temporary directory: C:\Users\liu\AppData\Local\Temp\is-BN6E4.tmp
+2019-10-15 17:34:52.775   -- DLL function import --
+2019-10-15 17:34:52.775   Function name: OpenSCManagerW
+2019-10-15 17:34:52.775   DLL name: advapi32.dll
+2019-10-15 17:34:52.775   Dest DLL name: advapi32.dll
+2019-10-15 17:34:52.775   Importing the DLL function.
+2019-10-15 17:34:52.775   Successfully imported the DLL function. Delay loaded? No
+2019-10-15 17:34:52.775   -- DLL function import --
+2019-10-15 17:34:52.775   Function name: OpenServiceW
+2019-10-15 17:34:52.775   DLL name: advapi32.dll
+2019-10-15 17:34:52.775   Dest DLL name: advapi32.dll
+2019-10-15 17:34:52.775   Importing the DLL function.
+2019-10-15 17:34:52.775   Successfully imported the DLL function. Delay loaded? No
+2019-10-15 17:34:52.775   -- DLL function import --
+2019-10-15 17:34:52.775   Function name: StartServiceW
+2019-10-15 17:34:52.775   DLL name: advapi32.dll
+2019-10-15 17:34:52.775   Dest DLL name: advapi32.dll
+2019-10-15 17:34:52.775   Importing the DLL function.
+2019-10-15 17:34:52.775   Successfully imported the DLL function. Delay loaded? No
+2019-10-15 17:34:52.775   -- DLL function import --
+2019-10-15 17:34:52.775   Function name: CloseServiceHandle
+2019-10-15 17:34:52.775   DLL name: advapi32.dll
+2019-10-15 17:34:52.775   Dest DLL name: advapi32.dll
+2019-10-15 17:34:52.775   Importing the DLL function.
+2019-10-15 17:34:52.775   Successfully imported the DLL function. Delay loaded? No
+2019-10-15 17:34:52.775   -- DLL function import --
+2019-10-15 17:34:52.775   Function name: ControlService
+2019-10-15 17:34:52.775   DLL name: advapi32.dll
+2019-10-15 17:34:52.775   Dest DLL name: advapi32.dll
+2019-10-15 17:34:52.775   Importing the DLL function.
+2019-10-15 17:34:52.775   Successfully imported the DLL function. Delay loaded? No
+2019-10-15 17:34:52.775   -- DLL function import --
+2019-10-15 17:34:52.775   Function name: CreateServiceW
+2019-10-15 17:34:52.775   DLL name: advapi32.dll
+2019-10-15 17:34:52.775   Dest DLL name: advapi32.dll
+2019-10-15 17:34:52.775   Importing the DLL function.
+2019-10-15 17:34:52.775   Successfully imported the DLL function. Delay loaded? No
+2019-10-15 17:34:52.775   -- DLL function import --
+2019-10-15 17:34:52.775   Function name: DeleteService
+2019-10-15 17:34:52.775   DLL name: advapi32.dll
+2019-10-15 17:34:52.775   Dest DLL name: advapi32.dll
+2019-10-15 17:34:52.775   Importing the DLL function.
+2019-10-15 17:34:52.775   Successfully imported the DLL function. Delay loaded? No
+2019-10-15 17:34:52.775   -- DLL function import --
+2019-10-15 17:34:52.775   Function name: LockServiceDatabase
+2019-10-15 17:34:52.775   DLL name: advapi32.dll
+2019-10-15 17:34:52.775   Dest DLL name: advapi32.dll
+2019-10-15 17:34:52.775   Importing the DLL function.
+2019-10-15 17:34:52.775   Successfully imported the DLL function. Delay loaded? No
+2019-10-15 17:34:52.775   -- DLL function import --
+2019-10-15 17:34:52.775   Function name: UnlockServiceDatabase
+2019-10-15 17:34:52.775   DLL name: advapi32.dll
+2019-10-15 17:34:52.775   Dest DLL name: advapi32.dll
+2019-10-15 17:34:52.775   Importing the DLL function.
+2019-10-15 17:34:52.775   Successfully imported the DLL function. Delay loaded? No
+2019-10-15 17:34:52.775   -- DLL function import --
+2019-10-15 17:34:52.775   Function name: GetTextExtentPoint32W
+2019-10-15 17:34:52.776   DLL name: Gdi32.dll
+2019-10-15 17:34:52.776   Dest DLL name: Gdi32.dll
+2019-10-15 17:34:52.776   Importing the DLL function.
+2019-10-15 17:34:52.776   Successfully imported the DLL function. Delay loaded? No
+2019-10-15 17:34:52.776   -- DLL function import --
+2019-10-15 17:34:52.776   Function name: GetDC
+2019-10-15 17:34:52.776   DLL name: User32.dll
+2019-10-15 17:34:52.776   Dest DLL name: User32.dll
+2019-10-15 17:34:52.776   Importing the DLL function.
+2019-10-15 17:34:52.776   Successfully imported the DLL function. Delay loaded? No
+2019-10-15 17:34:52.776   -- DLL function import --
+2019-10-15 17:34:52.776   Function name: SelectObject
+2019-10-15 17:34:52.776   DLL name: Gdi32.dll
+2019-10-15 17:34:52.776   Dest DLL name: Gdi32.dll
+2019-10-15 17:34:52.776   Importing the DLL function.
+2019-10-15 17:34:52.776   Successfully imported the DLL function. Delay loaded? No
+2019-10-15 17:34:52.776   -- DLL function import --
+2019-10-15 17:34:52.776   Function name: FindWindowW
+2019-10-15 17:34:52.776   DLL name: user32.dll
+2019-10-15 17:34:52.776   Dest DLL name: user32.dll
+2019-10-15 17:34:52.776   Importing the DLL function.
+2019-10-15 17:34:52.776   Successfully imported the DLL function. Delay loaded? No
+2019-10-15 17:34:53.181   Scaling factor: 100
+2019-10-15 17:35:46.270   Starting the installation process.
+2019-10-15 17:35:46.272   Creating directory: D:\Windscribe
+2019-10-15 17:35:46.272   Creating directory: D:\Windscribe\fanqiang
+2019-10-15 17:35:46.292   Directory for uninstall files: D:\Windscribe\fanqiang
+2019-10-15 17:35:46.292   Creating new uninstall log: D:\Windscribe\fanqiang\unins000.dat
+2019-10-15 17:35:46.294   -- File entry --
+2019-10-15 17:35:46.295   Dest filename: D:\Windscribe\fanqiang\unins000.exe
+2019-10-15 17:35:46.298   Time stamp of our file: 2019-10-15 17:34:52.564
+2019-10-15 17:35:46.298   Installing the file.
+2019-10-15 17:35:46.302   Uninstaller requires administrator: Yes
+2019-10-15 17:35:46.303   Successfully installed the file.
+2019-10-15 17:35:46.303   -- File entry --
+2019-10-15 17:35:46.303   Dest filename: D:\Windscribe\fanqiang\uninstall.ico
+2019-10-15 17:35:46.303   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:46.303   Installing the file.
+2019-10-15 17:35:46.305   Successfully installed the file.
+2019-10-15 17:35:46.305   -- File entry --
+2019-10-15 17:35:46.305   Dest filename: D:\Windscribe\fanqiang\cares.dll
+2019-10-15 17:35:46.305   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:46.305   Installing the file.
+2019-10-15 17:35:46.310   Successfully installed the file.
+2019-10-15 17:35:46.310   -- File entry --
+2019-10-15 17:35:46.310   Dest filename: D:\Windscribe\fanqiang\libcurl.dll
+2019-10-15 17:35:46.310   Time stamp of our file: 2018-09-13 23:56:12.000
+2019-10-15 17:35:46.310   Installing the file.
+2019-10-15 17:35:46.325   Successfully installed the file.
+2019-10-15 17:35:46.325   -- File entry --
+2019-10-15 17:35:46.326   Dest filename: D:\Windscribe\fanqiang\libeay32.dll
+2019-10-15 17:35:46.326   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:46.326   Installing the file.
+2019-10-15 17:35:46.366   Successfully installed the file.
+2019-10-15 17:35:46.366   -- File entry --
+2019-10-15 17:35:46.367   Dest filename: D:\Windscribe\fanqiang\libEGL.dll
+2019-10-15 17:35:46.367   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:46.367   Installing the file.
+2019-10-15 17:35:46.369   Successfully installed the file.
+2019-10-15 17:35:46.369   -- File entry --
+2019-10-15 17:35:46.369   Dest filename: D:\Windscribe\fanqiang\libGLESv2.dll
+2019-10-15 17:35:46.370   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:46.370   Installing the file.
+2019-10-15 17:35:46.410   Successfully installed the file.
+2019-10-15 17:35:46.410   -- File entry --
+2019-10-15 17:35:46.410   Dest filename: D:\Windscribe\fanqiang\libpkcs11-helper-1.dll
+2019-10-15 17:35:46.411   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:46.411   Installing the file.
+2019-10-15 17:35:46.414   Successfully installed the file.
+2019-10-15 17:35:46.414   -- File entry --
+2019-10-15 17:35:46.414   Dest filename: D:\Windscribe\fanqiang\msvcp120.dll
+2019-10-15 17:35:46.415   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:46.415   Installing the file.
+2019-10-15 17:35:46.428   Successfully installed the file.
+2019-10-15 17:35:46.428   -- File entry --
+2019-10-15 17:35:46.428   Dest filename: D:\Windscribe\fanqiang\msvcr120.dll
+2019-10-15 17:35:46.428   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:46.428   Installing the file.
+2019-10-15 17:35:46.460   Successfully installed the file.
+2019-10-15 17:35:46.460   -- File entry --
+2019-10-15 17:35:46.461   Dest filename: D:\Windscribe\fanqiang\Qt5Core.dll
+2019-10-15 17:35:46.461   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:46.461   Installing the file.
+2019-10-15 17:35:46.597   Successfully installed the file.
+2019-10-15 17:35:46.597   -- File entry --
+2019-10-15 17:35:46.598   Dest filename: D:\Windscribe\fanqiang\Qt5Gui.dll
+2019-10-15 17:35:46.598   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:46.598   Installing the file.
+2019-10-15 17:35:46.862   Successfully installed the file.
+2019-10-15 17:35:46.864   -- File entry --
+2019-10-15 17:35:46.864   Dest filename: D:\Windscribe\fanqiang\Qt5Network.dll
+2019-10-15 17:35:46.864   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:46.864   Installing the file.
+2019-10-15 17:35:46.886   Successfully installed the file.
+2019-10-15 17:35:46.887   -- File entry --
+2019-10-15 17:35:46.887   Dest filename: D:\Windscribe\fanqiang\Qt5Widgets.dll
+2019-10-15 17:35:46.887   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:46.887   Installing the file.
+2019-10-15 17:35:47.014   Successfully installed the file.
+2019-10-15 17:35:47.014   -- File entry --
+2019-10-15 17:35:47.015   Dest filename: D:\Windscribe\fanqiang\ssleay32.dll
+2019-10-15 17:35:47.015   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:47.015   Installing the file.
+2019-10-15 17:35:47.024   Successfully installed the file.
+2019-10-15 17:35:47.024   -- File entry --
+2019-10-15 17:35:47.025   Dest filename: D:\Windscribe\fanqiang\subinacl.exe
+2019-10-15 17:35:47.025   Time stamp of our file: 2019-01-19 05:30:08.000
+2019-10-15 17:35:47.025   Installing the file.
+2019-10-15 17:35:47.033   Successfully installed the file.
+2019-10-15 17:35:47.033   -- File entry --
+2019-10-15 17:35:47.034   Dest filename: D:\Windscribe\fanqiang\tstunnel.exe
+2019-10-15 17:35:47.034   Time stamp of our file: 2019-01-19 05:30:10.000
+2019-10-15 17:35:47.034   Installing the file.
+2019-10-15 17:35:47.041   Successfully installed the file.
+2019-10-15 17:35:47.041   -- File entry --
+2019-10-15 17:35:47.041   Dest filename: D:\Windscribe\fanqiang\Windscribe.exe
+2019-10-15 17:35:47.041   Time stamp of our file: 2019-01-19 05:30:10.000
+2019-10-15 17:35:47.041   Installing the file.
+2019-10-15 17:35:47.466   Successfully installed the file.
+2019-10-15 17:35:47.466   -- File entry --
+2019-10-15 17:35:47.466   Dest filename: D:\Windscribe\fanqiang\WindscribeInstallHelper.exe
+2019-10-15 17:35:47.466   Time stamp of our file: 2019-01-19 05:30:12.000
+2019-10-15 17:35:47.466   Installing the file.
+2019-10-15 17:35:47.471   Successfully installed the file.
+2019-10-15 17:35:47.471   -- File entry --
+2019-10-15 17:35:47.471   Dest filename: D:\Windscribe\fanqiang\WindscribeLauncher.exe
+2019-10-15 17:35:47.471   Time stamp of our file: 2019-01-19 05:30:12.000
+2019-10-15 17:35:47.471   Installing the file.
+2019-10-15 17:35:47.476   Successfully installed the file.
+2019-10-15 17:35:47.476   -- File entry --
+2019-10-15 17:35:47.476   Dest filename: D:\Windscribe\fanqiang\wsappcontrol.exe
+2019-10-15 17:35:47.476   Time stamp of our file: 2019-01-19 05:30:12.000
+2019-10-15 17:35:47.476   Installing the file.
+2019-10-15 17:35:47.486   Successfully installed the file.
+2019-10-15 17:35:47.486   -- File entry --
+2019-10-15 17:35:47.487   Dest filename: D:\Windscribe\fanqiang\wstunnel.exe
+2019-10-15 17:35:47.487   Time stamp of our file: 2019-01-19 05:30:14.000
+2019-10-15 17:35:47.487   Installing the file.
+2019-10-15 17:35:47.799   Successfully installed the file.
+2019-10-15 17:35:47.799   -- File entry --
+2019-10-15 17:35:47.799   Dest filename: D:\Windscribe\fanqiang\zlib1.dll
+2019-10-15 17:35:47.799   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:47.799   Installing the file.
+2019-10-15 17:35:47.826   Successfully installed the file.
+2019-10-15 17:35:47.826   -- File entry --
+2019-10-15 17:35:47.827   Dest filename: D:\Windscribe\fanqiang\imageformats\qgif.dll
+2019-10-15 17:35:47.828   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:47.828   Installing the file.
+2019-10-15 17:35:47.828   Creating directory: D:\Windscribe\fanqiang\imageformats
+2019-10-15 17:35:47.834   Successfully installed the file.
+2019-10-15 17:35:47.834   -- File entry --
+2019-10-15 17:35:47.835   Dest filename: D:\Windscribe\fanqiang\imageformats\qico.dll
+2019-10-15 17:35:47.835   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:47.835   Installing the file.
+2019-10-15 17:35:47.839   Successfully installed the file.
+2019-10-15 17:35:47.839   -- File entry --
+2019-10-15 17:35:47.840   Dest filename: D:\Windscribe\fanqiang\languages\ar.qm
+2019-10-15 17:35:47.840   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.840   Installing the file.
+2019-10-15 17:35:47.840   Creating directory: D:\Windscribe\fanqiang\languages
+2019-10-15 17:35:47.843   Successfully installed the file.
+2019-10-15 17:35:47.844   -- File entry --
+2019-10-15 17:35:47.844   Dest filename: D:\Windscribe\fanqiang\languages\cs.qm
+2019-10-15 17:35:47.844   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.844   Installing the file.
+2019-10-15 17:35:47.847   Successfully installed the file.
+2019-10-15 17:35:47.847   -- File entry --
+2019-10-15 17:35:47.847   Dest filename: D:\Windscribe\fanqiang\languages\da.qm
+2019-10-15 17:35:47.847   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.848   Installing the file.
+2019-10-15 17:35:47.849   Successfully installed the file.
+2019-10-15 17:35:47.849   -- File entry --
+2019-10-15 17:35:47.850   Dest filename: D:\Windscribe\fanqiang\languages\de.qm
+2019-10-15 17:35:47.850   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.850   Installing the file.
+2019-10-15 17:35:47.851   Successfully installed the file.
+2019-10-15 17:35:47.852   -- File entry --
+2019-10-15 17:35:47.852   Dest filename: D:\Windscribe\fanqiang\languages\el.qm
+2019-10-15 17:35:47.852   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.852   Installing the file.
+2019-10-15 17:35:47.854   Successfully installed the file.
+2019-10-15 17:35:47.854   -- File entry --
+2019-10-15 17:35:47.854   Dest filename: D:\Windscribe\fanqiang\languages\en.qm
+2019-10-15 17:35:47.854   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.854   Installing the file.
+2019-10-15 17:35:47.856   Successfully installed the file.
+2019-10-15 17:35:47.856   -- File entry --
+2019-10-15 17:35:47.856   Dest filename: D:\Windscribe\fanqiang\languages\en_nsfw.qm
+2019-10-15 17:35:47.856   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.856   Installing the file.
+2019-10-15 17:35:47.858   Successfully installed the file.
+2019-10-15 17:35:47.858   -- File entry --
+2019-10-15 17:35:47.858   Dest filename: D:\Windscribe\fanqiang\languages\es.qm
+2019-10-15 17:35:47.858   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.858   Installing the file.
+2019-10-15 17:35:47.860   Successfully installed the file.
+2019-10-15 17:35:47.860   -- File entry --
+2019-10-15 17:35:47.860   Dest filename: D:\Windscribe\fanqiang\languages\fr.qm
+2019-10-15 17:35:47.860   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.860   Installing the file.
+2019-10-15 17:35:47.861   Successfully installed the file.
+2019-10-15 17:35:47.862   -- File entry --
+2019-10-15 17:35:47.862   Dest filename: D:\Windscribe\fanqiang\languages\hi.qm
+2019-10-15 17:35:47.862   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.862   Installing the file.
+2019-10-15 17:35:47.864   Successfully installed the file.
+2019-10-15 17:35:47.864   -- File entry --
+2019-10-15 17:35:47.864   Dest filename: D:\Windscribe\fanqiang\languages\hr.qm
+2019-10-15 17:35:47.864   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.864   Installing the file.
+2019-10-15 17:35:47.865   Successfully installed the file.
+2019-10-15 17:35:47.865   -- File entry --
+2019-10-15 17:35:47.866   Dest filename: D:\Windscribe\fanqiang\languages\hu.qm
+2019-10-15 17:35:47.866   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.866   Installing the file.
+2019-10-15 17:35:47.867   Successfully installed the file.
+2019-10-15 17:35:47.867   -- File entry --
+2019-10-15 17:35:47.868   Dest filename: D:\Windscribe\fanqiang\languages\id.qm
+2019-10-15 17:35:47.868   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.868   Installing the file.
+2019-10-15 17:35:47.869   Successfully installed the file.
+2019-10-15 17:35:47.869   -- File entry --
+2019-10-15 17:35:47.869   Dest filename: D:\Windscribe\fanqiang\languages\it.qm
+2019-10-15 17:35:47.869   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.869   Installing the file.
+2019-10-15 17:35:47.871   Successfully installed the file.
+2019-10-15 17:35:47.871   -- File entry --
+2019-10-15 17:35:47.872   Dest filename: D:\Windscribe\fanqiang\languages\ja.qm
+2019-10-15 17:35:47.872   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.872   Installing the file.
+2019-10-15 17:35:47.873   Successfully installed the file.
+2019-10-15 17:35:47.873   -- File entry --
+2019-10-15 17:35:47.873   Dest filename: D:\Windscribe\fanqiang\languages\ko.qm
+2019-10-15 17:35:47.874   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.874   Installing the file.
+2019-10-15 17:35:47.875   Successfully installed the file.
+2019-10-15 17:35:47.875   -- File entry --
+2019-10-15 17:35:47.875   Dest filename: D:\Windscribe\fanqiang\languages\nl.qm
+2019-10-15 17:35:47.875   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.875   Installing the file.
+2019-10-15 17:35:47.877   Successfully installed the file.
+2019-10-15 17:35:47.877   -- File entry --
+2019-10-15 17:35:47.877   Dest filename: D:\Windscribe\fanqiang\languages\pl.qm
+2019-10-15 17:35:47.877   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.877   Installing the file.
+2019-10-15 17:35:47.879   Successfully installed the file.
+2019-10-15 17:35:47.879   -- File entry --
+2019-10-15 17:35:47.879   Dest filename: D:\Windscribe\fanqiang\languages\pt.qm
+2019-10-15 17:35:47.879   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.879   Installing the file.
+2019-10-15 17:35:47.881   Successfully installed the file.
+2019-10-15 17:35:47.881   -- File entry --
+2019-10-15 17:35:47.881   Dest filename: D:\Windscribe\fanqiang\languages\ru.qm
+2019-10-15 17:35:47.881   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.881   Installing the file.
+2019-10-15 17:35:47.882   Successfully installed the file.
+2019-10-15 17:35:47.882   -- File entry --
+2019-10-15 17:35:47.882   Dest filename: D:\Windscribe\fanqiang\languages\sk.qm
+2019-10-15 17:35:47.882   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.882   Installing the file.
+2019-10-15 17:35:47.885   Successfully installed the file.
+2019-10-15 17:35:47.885   -- File entry --
+2019-10-15 17:35:47.885   Dest filename: D:\Windscribe\fanqiang\languages\sv.qm
+2019-10-15 17:35:47.885   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.885   Installing the file.
+2019-10-15 17:35:47.886   Successfully installed the file.
+2019-10-15 17:35:47.886   -- File entry --
+2019-10-15 17:35:47.886   Dest filename: D:\Windscribe\fanqiang\languages\th.qm
+2019-10-15 17:35:47.886   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.886   Installing the file.
+2019-10-15 17:35:47.888   Successfully installed the file.
+2019-10-15 17:35:47.888   -- File entry --
+2019-10-15 17:35:47.888   Dest filename: D:\Windscribe\fanqiang\languages\tr.qm
+2019-10-15 17:35:47.888   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.888   Installing the file.
+2019-10-15 17:35:47.890   Successfully installed the file.
+2019-10-15 17:35:47.890   -- File entry --
+2019-10-15 17:35:47.890   Dest filename: D:\Windscribe\fanqiang\languages\vi.qm
+2019-10-15 17:35:47.890   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.890   Installing the file.
+2019-10-15 17:35:47.892   Successfully installed the file.
+2019-10-15 17:35:47.892   -- File entry --
+2019-10-15 17:35:47.892   Dest filename: D:\Windscribe\fanqiang\languages\zh.qm
+2019-10-15 17:35:47.892   Time stamp of our file: 2018-07-06 17:22:46.000
+2019-10-15 17:35:47.892   Installing the file.
+2019-10-15 17:35:47.893   Successfully installed the file.
+2019-10-15 17:35:47.894   -- File entry --
+2019-10-15 17:35:47.894   Dest filename: D:\Windscribe\fanqiang\Platforms\qwindows.dll
+2019-10-15 17:35:47.894   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:47.894   Installing the file.
+2019-10-15 17:35:47.894   Creating directory: D:\Windscribe\fanqiang\Platforms
+2019-10-15 17:35:47.927   Successfully installed the file.
+2019-10-15 17:35:47.927   -- File entry --
+2019-10-15 17:35:47.927   Dest filename: D:\Windscribe\fanqiang\WindscribeService.exe
+2019-10-15 17:35:47.927   Time stamp of our file: 2019-01-19 05:30:18.000
+2019-10-15 17:35:47.927   Installing the file.
+2019-10-15 17:35:47.955   Successfully installed the file.
+2019-10-15 17:35:47.955   -- File entry --
+2019-10-15 17:35:47.956   Dest filename: D:\Windscribe\fanqiang\ChangeIcs.exe
+2019-10-15 17:35:47.956   Time stamp of our file: 2019-01-19 05:30:18.000
+2019-10-15 17:35:47.956   Installing the file.
+2019-10-15 17:35:47.974   Successfully installed the file.
+2019-10-15 17:35:47.974   -- File entry --
+2019-10-15 17:35:47.975   Dest filename: D:\Windscribe\fanqiang\windscribeopenvpn_2_3_18.exe
+2019-10-15 17:35:47.976   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:47.976   Installing the file.
+2019-10-15 17:35:48.002   Successfully installed the file.
+2019-10-15 17:35:48.002   -- File entry --
+2019-10-15 17:35:48.002   Dest filename: D:\Windscribe\fanqiang\windscribeopenvpn_2_4_6.exe
+2019-10-15 17:35:48.003   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:48.003   Installing the file.
+2019-10-15 17:35:48.018   Successfully installed the file.
+2019-10-15 17:35:48.018   -- File entry --
+2019-10-15 17:35:48.018   Dest filename: D:\Windscribe\fanqiang\tap\OemVista.inf
+2019-10-15 17:35:48.019   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:48.019   Installing the file.
+2019-10-15 17:35:48.019   Creating directory: D:\Windscribe\fanqiang\tap
+2019-10-15 17:35:48.025   Successfully installed the file.
+2019-10-15 17:35:48.025   -- File entry --
+2019-10-15 17:35:48.026   Dest filename: D:\Windscribe\fanqiang\tap\tapwindscribe0901.cat
+2019-10-15 17:35:48.026   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:48.026   Installing the file.
+2019-10-15 17:35:48.027   Successfully installed the file.
+2019-10-15 17:35:48.027   -- File entry --
+2019-10-15 17:35:48.027   Dest filename: D:\Windscribe\fanqiang\tap\tapwindscribe0901.sys
+2019-10-15 17:35:48.027   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:48.027   Installing the file.
+2019-10-15 17:35:48.029   Successfully installed the file.
+2019-10-15 17:35:48.029   -- File entry --
+2019-10-15 17:35:48.029   Dest filename: D:\Windscribe\fanqiang\tap\tapinstall.exe
+2019-10-15 17:35:48.029   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:48.029   Installing the file.
+2019-10-15 17:35:48.031   Successfully installed the file.
+2019-10-15 17:35:49.377   Command for install tap executed successfully
+2019-10-15 17:35:49.377   Tap-adapter installed successfully
+2019-10-15 17:35:49.377   -- File entry --
+2019-10-15 17:35:49.377   Dest filename: D:\Windscribe\fanqiang\tap5\OemWin2k.inf
+2019-10-15 17:35:49.378   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:49.378   Installing the file.
+2019-10-15 17:35:49.378   Creating directory: D:\Windscribe\fanqiang\tap5
+2019-10-15 17:35:49.380   Successfully installed the file.
+2019-10-15 17:35:49.380   -- File entry --
+2019-10-15 17:35:49.381   Dest filename: D:\Windscribe\fanqiang\tap5\tapwindscribe0901.cat
+2019-10-15 17:35:49.381   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:49.381   Installing the file.
+2019-10-15 17:35:49.382   Successfully installed the file.
+2019-10-15 17:35:49.382   -- File entry --
+2019-10-15 17:35:49.383   Dest filename: D:\Windscribe\fanqiang\tap5\tapwindscribe0901.sys
+2019-10-15 17:35:49.383   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:49.383   Installing the file.
+2019-10-15 17:35:49.386   Successfully installed the file.
+2019-10-15 17:35:49.386   -- File entry --
+2019-10-15 17:35:49.387   Dest filename: D:\Windscribe\fanqiang\tap5\tapinstall.exe
+2019-10-15 17:35:49.387   Time stamp of our file: 2018-07-06 17:22:44.000
+2019-10-15 17:35:49.387   Installing the file.
+2019-10-15 17:35:49.390   Successfully installed the file.
+2019-10-15 17:35:49.392   -- Icon entry --
+2019-10-15 17:35:49.392   Dest filename: C:\Users\Public\Desktop\Windscribe.lnk
+2019-10-15 17:35:49.394   Creating the icon.
+2019-10-15 17:35:49.543   Successfully created the icon.
+2019-10-15 17:35:49.552   -- Icon entry --
+2019-10-15 17:35:49.552   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windscribe\卸载Windscribe.lnk
+2019-10-15 17:35:49.552   Creating directory: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windscribe
+2019-10-15 17:35:49.560   Creating the icon.
+2019-10-15 17:35:49.565   Successfully created the icon.
+2019-10-15 17:35:49.573   -- Icon entry --
+2019-10-15 17:35:49.573   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windscribe\Windscribe.lnk
+2019-10-15 17:35:49.574   Creating the icon.
+2019-10-15 17:35:49.577   Successfully created the icon.
+2019-10-15 17:35:49.586   Saving uninstall information.
+2019-10-15 17:35:49.586   Writing uninstaller messages: D:\Windscribe\fanqiang\unins000.msg
+2019-10-15 17:35:49.587   Deleting any uninstall keys left over from previous installs
+2019-10-15 17:35:49.588   Creating new uninstall key: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\{fa690e90-ddb0-4f0c-b3f1-136c084e5fc7}_is1
+2019-10-15 17:35:49.588   Writing uninstall key values.
+2019-10-15 17:35:49.595   Installation process succeeded.
+2019-10-15 17:35:50.427   Need to restart Windows? No
+2019-10-15 17:35:52.297   -- Run entry --
+2019-10-15 17:35:52.297   Run as: Original user
+2019-10-15 17:35:52.297   Type: ShellExec
+2019-10-15 17:35:52.297   Filename: D:\Windscribe\fanqiang\WindscribeLauncher.exe
+2019-10-15 17:35:53.426   Deinitializing Setup.
